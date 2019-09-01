@@ -1,0 +1,2 @@
+# EggWarsTeam
+Pocketmine EggWars Plugin
