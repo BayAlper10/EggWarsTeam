@@ -1,0 +1,128 @@
+---
+world: world
+enable: true
+win-x: 100
+win-y: 15
+win-z: 100
+asdSpawn1:
+- 318
+- 67
+- 258
+asdSpawn2:
+- 320
+- 67
+- 258
+asdSpawn3:
+- 322
+- 67
+- 258
+asdSpawn4:
+- 324
+- 67
+- 258
+asdSpawn5:
+- 326
+- 67
+- 258
+asdSpawn6:
+- 328
+- 67
+- 258
+asdSpawn7:
+- 330
+- 67
+- 258
+asdSpawn8:
+- 332
+- 67
+- 258
+asdLobi:
+- 272
+- 66
+- 263
+asdEggRed:
+- 312
+- 64
+- 254
+asdRedKirildimi: hayir
+asdEggBlue:
+- 314
+- 64
+- 254
+asdBlueKirildimi: hayir
+asdEggYellow:
+- 316
+- 64
+- 254
+asdYellowKirildimi: hayir
+asdEggGreen:
+- 316
+- 64
+- 254
+asdGreenKirildimi: hayir
+asdDemir1:
+- 318
+- 65
+- 254
+asdDemir1level: 1
+asdDemir2:
+- 320
+- 65
+- 254
+asdDemir2level: 1
+asdDemir3:
+- 322
+- 65
+- 254
+asdDemir3level: 1
+asdDemir4:
+- 324
+- 65
+- 254
+asdDemir4level: 1
+asdAltin1:
+- 326
+- 65
+- 254
+asdAltin1level: 1
+asdAltin2:
+- 328
+- 65
+- 254
+asdAltin2level: 1
+asdAltin3:
+- 330
+- 65
+- 254
+asdAltin3level: 1
+asdAltin4:
+- 332
+- 65
+- 254
+asdAltin4level: 1
+asdElmas1:
+- 334
+- 65
+- 254
+asdElmas1level: 1
+asdElmas2:
+- 336
+- 65
+- 254
+asdElmas2level: 1
+asdElmas3:
+- 338
+- 65
+- 254
+asdElmas3level: 1
+asdElmas4:
+- 340
+- 65
+- 254
+asdElmas4level: 1
+arenas:
+- asd
+asdPlayTime: 780
+asdStartTime: 30
+asdBasladimi: hayir
+...
