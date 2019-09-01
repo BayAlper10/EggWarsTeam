@@ -1,6 +1,6 @@
 # EggWarsTeam
 
-###DİKKAT
+### DİKKAT
 - Eklentinin çalışması için kurulumdan sonra örnek.txt dosyasındaki düzeni kendi configinize uygulayın.
 
 ### EKLENTİ GAYET BASİT VE ÖĞRETİCİ KODLANMIŞTIR.
